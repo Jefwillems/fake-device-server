@@ -1,4 +1,4 @@
-{
+{"devices":{
   "_links": {
     "self": {
       "href": "https://acc.api.data.amsterdam.nl/iothings/devices/?page=1&page_size=1000"
@@ -14232,4 +14232,5 @@
       "organisation": "Amsterdam Smart City"
     }
   ]
+}
 }
